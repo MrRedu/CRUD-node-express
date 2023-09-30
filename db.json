@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Los 7 hábitos de la gente altamente efectiva",
+      "author": "Stephen R. Covey",
+      "year": 1989
+    },
+    { "id": 2, "title": "Book 2", "author": "Robert Kiyosaki", "year": 1997 },
+    {
+      "id": 3,
+      "title": "Una breve historia del tiempo",
+      "author": "Stepehen Howking",
+      "year": 1512
+    },
+    {
+      "id": 4,
+      "title": "Una breve historia del tiempo",
+      "author": "Stepehen Howking",
+      "year": 1512
+    },
+    {
+      "id": 6,
+      "title": "Una breve historia del tiempo",
+      "author": "Stepehen Howking",
+      "year": 1512
+    }
+  ]
+}
