@@ -1,2 +1,3 @@
-# API REST con Node js y Express | CRUD
-https://www.youtube.com/watch?v=BImKbdy-ubM
+# CRUD | API REST con Node js y Express
+
+Primer encuentro con Nodejs, Express, creación de una API Rest y Back-End en general.
